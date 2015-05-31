@@ -18,7 +18,7 @@ Ultrasonic ranging module HC-SR04 provides from 2cm to 400cm non-contact measure
  </ul>
 </p>
 <p>and more <a href="http://www.micropik.com/PDF/HCSR04.pdf" target="_blank">here</a></p>
-<h3>Projects Summary</h3>
+<h3>Summary</h3>
 <p>
  <ol>
   <li><a href="#Project1">Project 1:</a></li>
