@@ -36,4 +36,5 @@ Ultrasonic ranging module HC-SR04 provides from 2cm to 400cm non-contact measure
 </ul>
 <strong>Schematics</strong><br/>
 <strong>Code</strong><br/>
+Upload this <a href="">code</a> to the Arduino
 </p>
