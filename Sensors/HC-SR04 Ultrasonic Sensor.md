@@ -8,7 +8,7 @@ Ultrasonic ranging module HC-SR04 provides from 2cm to 400cm non-contact measure
   <li>IF the signal back, through high level , time of high output IO duration is the time from sending ultrasonic to returning.</li>
  </ol>
 </p>
-<h3>Wire connecting direct as following</h3>
+<h3>Wire connecting</h3>
 <p>
  <ul>
   <li>5V Supply</li>
