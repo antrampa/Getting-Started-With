@@ -35,6 +35,13 @@ Ultrasonic ranging module HC-SR04 provides from 2cm to 400cm non-contact measure
   <li>Jumper Wirest</li>
 </ul>
 <strong>Schematics</strong><br/>
+Connect :
+<ul>
+  <li>VCC to Arduino 5V</li>
+  <li>GND to Arduino GND</li>
+  <li>Echo to Arduino pin 11</li>
+  <li>Trig to Arduino pin 12</li>
+</ul>
 <strong>Code</strong><br/>
 Upload this <a href="">code</a> to the Arduino
 </p>
