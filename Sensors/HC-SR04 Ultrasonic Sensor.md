@@ -21,13 +21,14 @@ Ultrasonic ranging module HC-SR04 provides from 2cm to 400cm non-contact measure
 <h3>Summary</h3>
 <p>
  <ol>
-  <li><a href="#Project1">Project 1:</a></li>
-  <li><a href="#Project1">Project 2:</a></li>
-  <li><a href="#Project1">Project 3:</a></li>
-  <li><a href="#Project1">Project 4:</a></li>
+  <li><a href="#Project1">Project 1:Testing the HC-SR04 Ultrasonic Sensor</a></li>
  </ol>
  So let's started
 </p>
-
-
-
+<h3 id="Project1">Project 1:Testing the HC-SR04 Ultrasonic Sensor</h3>
+<p>
+<strong>Introduction</strong><br/>
+<strong>Parts Required</strong><br/>
+<strong>Schematics</strong><br/>
+<strong>Code</strong><br/>
+</p>
