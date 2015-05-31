@@ -1,5 +1,5 @@
 <h1>HC-SR04 Ultrasonic Sensor</h1>
-<h3>Product features</h3>
+<h3>About the product</h3>
 <p>
 Ultrasonic ranging module HC-SR04 provides from 2cm to 400cm non-contact measurement function, the ranging accuracy can reach to 3mm. The modules includes ultrasonic transmitters, receiver and control circuit. The basic principle of work:
  <ol>
@@ -25,10 +25,15 @@ Ultrasonic ranging module HC-SR04 provides from 2cm to 400cm non-contact measure
  </ol>
  So let's started
 </p>
-<h3 style="color:blue;margin-left:30px;" id="Project1">Project 1:Testing the HC-SR04 Ultrasonic Sensor</h3>
+<h3 id="Project1">Project 1:Testing the HC-SR04 Ultrasonic Sensor</h3>
 <p>
 <strong>Introduction</strong><br/>
 <strong>Parts Required</strong><br/>
+<ul>
+  <li>Arduino buy one <a href="">buy one here</a></li>
+  <li>HC-SR04 Ultrasonic Sensor <a href="">buy one here</a></li>
+  <li>Jumper Wirest</li>
+</ul>
 <strong>Schematics</strong><br/>
 <strong>Code</strong><br/>
 </p>
