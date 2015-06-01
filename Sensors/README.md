@@ -63,7 +63,7 @@ Download the whole project <a href="https://github.com/AhmedDjebali/Getting-Star
 <strong>Description</strong><br/>
 <blockquote>
 In addition to the HC-SR04 sensor and an Arduino this project will use an LCD display.<br/>
-<blockquote>
+</blockquote>
 <strong>Parts Required</strong><br/>
 <blockquote>
 <ul>
@@ -72,7 +72,7 @@ In addition to the HC-SR04 sensor and an Arduino this project will use an LCD di
   <li>LCD display<li/>
   <li>Jumper Wirest</li>
 </ul>
-<blockquote>
+</blockquote>
 <strong>Schematic</strong><br/>
 <blockquote>
 Connect the components and wires as shown in this <a href="https://github.com/AhmedDjebali/Getting-Started-With/blob/master/Sensors/HC-SR04_with_LCD/Schematic.jpg">schematic</a> or following the instructions below : <br/>
