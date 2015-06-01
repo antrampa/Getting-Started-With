@@ -29,7 +29,7 @@ Ultrasonic ranging module HC-SR04 provides from 2cm to 400cm non-contact measure
 <h3 id="Project1">Project 1:Testing the HC-SR04 Ultrasonic Sensor</h3>
 <p>
 Download the whole project <a href="https://github.com/AhmedDjebali/Getting-Started-With/tree/master/Sensors/HC-SR04_Test">here<a><br/>
-<strong style="text-indent: 50px;">>>Description</strong><br/>
+ <blockquote>Description</blockquote><br/>
 This simple project will use the HC-SR04 sensor with an Arduino and a arocessing sketch to provide you a little interactive display on your computer screen.<br/>
 <strong>>>Parts Required</strong><br/>
 <ul>
