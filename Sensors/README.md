@@ -69,14 +69,14 @@ In addition to the HC-SR04 sensor and an Arduino this project will use an LCD di
 <ul>
   <li>Arduino buy one <a href="">buy one here</a></li>
   <li>HC-SR04 Ultrasonic Sensor <a href="">buy one here</a></li>
-  <li>LCD display<li/>
+  <li>LCD display</li>
   <li>Jumper Wirest</li>
 </ul>
 </blockquote>
 <strong>Schematic</strong><br/>
 <blockquote>
 Connect the components and wires as shown in this <a href="https://github.com/AhmedDjebali/Getting-Started-With/blob/master/Sensors/HC-SR04_with_LCD/Schematic.jpg">schematic</a> or following the instructions below : <br/>
-<ol>
+<ul>
  <li>HC-SR04 Ultrasonic Sensor</li>
  <ul>
   <li>VCC to Arduino 5V</li>
@@ -99,7 +99,7 @@ Connect the components and wires as shown in this <a href="https://github.com/Ah
   <li>LED+ to Arduino 5V</li>
   <li>LED- to Arduino GND</li>
 </ul>
-</ol>
+</ul>
 </blockquote>
 <strong>Code</strong><br/>
 <blockquote>
