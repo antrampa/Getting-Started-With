@@ -29,15 +29,21 @@ Ultrasonic ranging module HC-SR04 provides from 2cm to 400cm non-contact measure
 <h3 id="Project1">Project 1:Testing the HC-SR04 Ultrasonic Sensor</h3>
 <p>
 Download the whole project <a href="https://github.com/AhmedDjebali/Getting-Started-With/tree/master/Sensors/HC-SR04_Test">here<a><br/>
-<strong>   Description</strong><br/>
-This simple project will use the HC-SR04 sensor with an Arduino and a arocessing sketch to provide you a little interactive display on your computer screen.<br/>
-<strong>   Parts Required</strong><br/>
+<strong>Description</strong><br/>
+<blockquote>
+This simple project will use the HC-SR04 sensor with an Arduino and a arocessing sketch to provide you a little interactive display on your computer screen.
+</blockquote>
+<blockquote></blockquote>
+<strong>Parts Required</strong><br/>
+<blockquote>
 <ul>
   <li>Arduino buy one <a href="">buy one here</a></li>
   <li>HC-SR04 Ultrasonic Sensor <a href="">buy one here</a></li>
   <li>Jumper Wirest</li>
 </ul>
-<strong>   Schematic</strong><br/>
+</blockquote>
+<strong>Schematic</strong><br/>
+<blockquote>
 Connect the components and wires as shown in this <a href="https://github.com/AhmedDjebali/Getting-Started-With/blob/master/Sensors/HC-SR04_Test/Schematic.jpg">schematic</a> or following the instructions below : <br/>
 <ul>
   <li>VCC to Arduino 5V</li>
@@ -45,8 +51,11 @@ Connect the components and wires as shown in this <a href="https://github.com/Ah
   <li>Echo to Arduino pin 12</li>
   <li>Trig to Arduino pin 13</li>
 </ul>
-<strong>   Code</strong><br/>
+</blockquote>
+<strong>Code</strong><br/>
+<blockquote>
 Upload this <a href="https://github.com/AhmedDjebali/Getting-Started-With/blob/master/Sensors/HC-SR04_Test/HC-SR04_Test.ino">code</a> to the Arduino
+</blockquote>
 </p>
 <h3 id="Project2">Project 2:Testing the HC-SR04 Ultrasonic Sensor with LCD dispaly</h3>
 <p>
