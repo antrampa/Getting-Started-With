@@ -1,0 +1,6 @@
+- Arduino UNO R3
+- 1x HC-SR04 Ultrasonic Sensor
+- 1x LCD Display (I made this project with JHD162A)
+- Some wires
+
+Visit my store:   

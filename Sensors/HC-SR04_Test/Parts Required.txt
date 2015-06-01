@@ -1,0 +1,5 @@
+- Arduino UNO R3
+- 1x HC-SR04 Ultrasonic Sensor
+- Some wires
+
+Visit my store:   
