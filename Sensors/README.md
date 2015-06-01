@@ -51,16 +51,16 @@ Upload this <a href="https://github.com/AhmedDjebali/Getting-Started-With/blob/m
 <h3 id="Project2">Project 2:Testing the HC-SR04 Ultrasonic Sensor with LCD dispaly</h3>
 <p>
 Download the whole project <a href="https://github.com/AhmedDjebali/Getting-Started-With/tree/master/Sensors/HC-SR04_with_LCD">here<a><br/>
-<strong>Description</strong><br/>
-In addition the HC-SR04 sensor and an Arduino this project will use an LCD display.<br/>
-<strong>Parts Required</strong><br/>
+<strong>>Description</strong><br/>
+In addition to the HC-SR04 sensor and an Arduino this project will use an LCD display.<br/>
+<strong>>Parts Required</strong><br/>
 <ul>
   <li>Arduino buy one <a href="">buy one here</a></li>
   <li>HC-SR04 Ultrasonic Sensor <a href="">buy one here</a></li>
   <li>LCD display<li/>
   <li>Jumper Wirest</li>
 </ul>
-<strong>Schematic</strong><br/>
+<strong>>Schematic</strong><br/>
 Connect the components and wires as shown in this <a href="https://github.com/AhmedDjebali/Getting-Started-With/blob/master/Sensors/HC-SR04_with_LCD/Schematic.jpg">schematic</a> or following the instructions below : <br/>
 <ol>
  <li>HC-SR04 Ultrasonic Sensor</li>
@@ -86,6 +86,6 @@ Connect the components and wires as shown in this <a href="https://github.com/Ah
   <li>LED- to Arduino GND</li>
 </ul>
 </ol>
-<strong>Code</strong><br/>
+<strong>>Code</strong><br/>
 Upload this <a href="https://github.com/AhmedDjebali/Getting-Started-With/blob/master/Sensors/HC-SR04_with_LCD/HC-SR04_with_LCD.ino">code</a> to the Arduino
 </p>
