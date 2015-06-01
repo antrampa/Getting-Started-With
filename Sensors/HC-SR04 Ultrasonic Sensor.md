@@ -22,6 +22,7 @@ Ultrasonic ranging module HC-SR04 provides from 2cm to 400cm non-contact measure
 <p>
  <ol>
   <li><a href="#Project1">Project 1:Testing the HC-SR04 Ultrasonic Sensor</a></li>
+  <li><a href="#Project2">Project 2:Testing the HC-SR04 Ultrasonic Sensor with LCD dispaly</a></li>
  </ol>
  So let's started
 </p>
@@ -41,6 +42,27 @@ Connect :
   <li>GND to Arduino GND</li>
   <li>Echo to Arduino pin 11</li>
   <li>Trig to Arduino pin 12</li>
+</ul>
+<strong>Code</strong><br/>
+Upload this <a href="">code</a> to the Arduino
+</p>
+<h3 id="Project2">Project 2:Testing the HC-SR04 Ultrasonic Sensor with LCD dispaly</h3>
+<p>
+<strong>Introduction</strong><br/>
+<strong>Parts Required</strong><br/>
+<ul>
+  <li>Arduino buy one <a href="">buy one here</a></li>
+  <li>HC-SR04 Ultrasonic Sensor <a href="">buy one here</a></li>
+  <li>LCD display<li/>
+  <li>Jumper Wirest</li>
+</ul>
+<strong>Schematics</strong><br/>
+Connect :
+<ul>
+  <li>VCC to Arduino 5V</li>
+  <li>GND to Arduino GND</li>
+  <li>Trig to Arduino pin 13</li>
+  <li>Echo to Arduino pin 12</li>
 </ul>
 <strong>Code</strong><br/>
 Upload this <a href="">code</a> to the Arduino
