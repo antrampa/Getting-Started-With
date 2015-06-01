@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>HC-SR04 Ultrasonic Sensor</h1>
 <h3>About the product</h3>
 <p>
@@ -67,3 +68,4 @@ Connect :
 <strong>Code</strong><br/>
 Upload this <a href="">code</a> to the Arduino
 </p>
+
