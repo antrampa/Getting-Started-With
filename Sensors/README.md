@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1>HC-SR04 Ultrasonic Sensor</h1>
 <h3>About the product</h3>
 <p>
@@ -29,6 +28,7 @@ Ultrasonic ranging module HC-SR04 provides from 2cm to 400cm non-contact measure
 </p>
 <h3 id="Project1">Project 1:Testing the HC-SR04 Ultrasonic Sensor</h3>
 <p>
+Download the whole project <a href="https://github.com/AhmedDjebali/Getting-Started-With/tree/master/Sensors/HC-SR04_Test">here<a><br/>
 <strong>Introduction</strong><br/>
 <strong>Parts Required</strong><br/>
 <ul>
@@ -36,19 +36,20 @@ Ultrasonic ranging module HC-SR04 provides from 2cm to 400cm non-contact measure
   <li>HC-SR04 Ultrasonic Sensor <a href="">buy one here</a></li>
   <li>Jumper Wirest</li>
 </ul>
-<strong>Schematics</strong><br/>
-Connect :
+<strong>Schematic</strong><br/>
+Connect the components and wires as shown in this <a href="https://github.com/AhmedDjebali/Getting-Started-With/blob/master/Sensors/HC-SR04_Test/Schematic.jpg">schematic</a> or following the instructions below : <br/>
 <ul>
   <li>VCC to Arduino 5V</li>
   <li>GND to Arduino GND</li>
-  <li>Echo to Arduino pin 11</li>
-  <li>Trig to Arduino pin 12</li>
+  <li>Echo to Arduino pin 12</li>
+  <li>Trig to Arduino pin 13</li>
 </ul>
 <strong>Code</strong><br/>
-Upload this <a href="">code</a> to the Arduino
+Upload this <a href="https://github.com/AhmedDjebali/Getting-Started-With/blob/master/Sensors/HC-SR04_Test/Schematic.jpg">code</a> to the Arduino
 </p>
 <h3 id="Project2">Project 2:Testing the HC-SR04 Ultrasonic Sensor with LCD dispaly</h3>
 <p>
+Download the whole project <a href="https://github.com/AhmedDjebali/Getting-Started-With/tree/master/Sensors/HC-SR04_with_LCD">here<a><br/>
 <strong>Introduction</strong><br/>
 <strong>Parts Required</strong><br/>
 <ul>
@@ -57,15 +58,32 @@ Upload this <a href="">code</a> to the Arduino
   <li>LCD display<li/>
   <li>Jumper Wirest</li>
 </ul>
-<strong>Schematics</strong><br/>
-Connect :
-<ul>
+<strong>Schematic</strong><br/>
+Connect the components and wires as shown in this <a href="https://github.com/AhmedDjebali/Getting-Started-With/blob/master/Sensors/HC-SR04_with_LCD/Schematic.jpg">schematic</a> or following the instructions below : <br/>
+<ol>
+ <li>HC-SR04 Ultrasonic Sensor</li>
+ <ul>
   <li>VCC to Arduino 5V</li>
   <li>GND to Arduino GND</li>
   <li>Trig to Arduino pin 13</li>
   <li>Echo to Arduino pin 12</li>
 </ul>
+<li>LCD Display (I used JHD162A)</li>
+<ul>
+  <li>VSS to Arduino GND</li>
+  <li>VCC to Arduino 5V</li>
+  <li>VEE to Arduino GND</li>
+  <li>RS to Arduino pin 11</li>
+  <li>R/W to Arduino pin 10</li>
+  <li>E to Arduino pin 9</li>
+  <li>DB4 to Arduino pin 2</li>
+  <li>DB5 to Arduino pin 3</li>
+  <li>DB6 to Arduino pin 4</li>
+  <li>DB7 to Arduino pin 5</li>
+  <li>LED+ to Arduino 5V</li>
+  <li>LED- to Arduino GND</li>
+</ul>
+</ol>
 <strong>Code</strong><br/>
-Upload this <a href="">code</a> to the Arduino
+Upload this <a href="https://github.com/AhmedDjebali/Getting-Started-With/blob/master/Sensors/HC-SR04_with_LCD/HC-SR04_with_LCD.ino">code</a> to the Arduino
 </p>
-
