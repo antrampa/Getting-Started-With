@@ -45,7 +45,7 @@ Connect the components and wires as shown in this <a href="https://github.com/Ah
   <li>Trig to Arduino pin 13</li>
 </ul>
 <strong>Code</strong><br/>
-Upload this <a href="https://github.com/AhmedDjebali/Getting-Started-With/blob/master/Sensors/HC-SR04_Test/Schematic.jpg">code</a> to the Arduino
+Upload this <a href="https://github.com/AhmedDjebali/Getting-Started-With/blob/master/Sensors/HC-SR04_Test/HC-SR04_Test.ino">code</a> to the Arduino
 </p>
 <h3 id="Project2">Project 2:Testing the HC-SR04 Ultrasonic Sensor with LCD dispaly</h3>
 <p>
