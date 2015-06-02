@@ -117,9 +117,9 @@ Upload this <a href="https://github.com/AhmedDjebali/Getting-Started-With/blob/m
 <hr/>
 Djebali Ahmed
 <blockquote>
-  My goal is to help you uget started very easily by giving you : 
+  My goal is to help you getting started very easily by giving you : 
   <ul>
-    <li>Overview about each component</li>
+    <li>Overviews</li>
     <li>Most important features</li>
     <li>Best projects</li>
     <li>Simple schematics</li>
