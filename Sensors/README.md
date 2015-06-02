@@ -29,6 +29,7 @@ The ultrasonic ranging module HC-SR04 uses sonar to determine distance to an obj
 <p>and more <a href="http://www.micropik.com/PDF/HCSR04.pdf" target="_blank">here</a></p>
 <h3>Projects Summary</h3>
 <p>
+  The HC-SR04 ultrasonic ranging sensor is very popular. So I’ve decided some projects using this sensor.<br/> 
  <ol>
   <li><a href="#Project1">Project 1:Testing the HC-SR04 Ultrasonic Sensor</a></li>
   <li><a href="#Project2">Project 2:HC-SR04 Ultrasonic Sensor with LCD dispaly</a></li>
@@ -68,11 +69,11 @@ Upload this <a href="https://github.com/AhmedDjebali/Getting-Started-With/blob/m
 <h3 id="Project2">Project 2:Testing the HC-SR04 Ultrasonic Sensor with LCD dispaly</h3>
 <p>
 Download the whole project <a href="https://github.com/AhmedDjebali/Getting-Started-With/tree/master/Sensors/HC-SR04_with_LCD">here<a><br/>
-<h4>Description</strong><h4>
+<h4>1 - Description</strong></h4>
 <p>
 In addition to the HC-SR04 sensor and an Arduino this project will use an LCD display.<br/>
 </p>
-<h4>Parts Required</h4>
+<h4>2 - Parts Required</h4>
 <p>
 <ul>
   <li>Arduino buy one <a href="">buy one here</a></li>
@@ -81,7 +82,7 @@ In addition to the HC-SR04 sensor and an Arduino this project will use an LCD di
   <li>Jumper Wires</li>
 </ul>
 </p>
-<h4>Schematic</h4>
+<h4>3 - Schematic</h4>
 <p>
 Connect the components and wires as shown in this <a href="https://github.com/AhmedDjebali/Getting-Started-With/blob/master/Sensors/HC-SR04_with_LCD/Schematic.jpg">schematic</a> or following the instructions below : <br/>
 <ul>
@@ -109,8 +110,19 @@ Connect the components and wires as shown in this <a href="https://github.com/Ah
 </ul>
 </ul>
 </p>
-<h4>Code</h4>
+<h4>4 - Code</h4>
 <p>
 Upload this <a href="https://github.com/AhmedDjebali/Getting-Started-With/blob/master/Sensors/HC-SR04_with_LCD/HC-SR04_with_LCD.ino">code</a> to the Arduino
 </p>
+<blockquote>
+  My goal is to help you uget started very easily by giving you : 
+  <ul>
+    <li>Overview about each component</li>
+    <li>Most important features</li>
+    <li>Best projects</li>
+    <li>Simple schematics</li>
+    <li>Commented sketches</li>
+  </ul>
+  Djebali Ahmed
+</blockquote>
 </p>
