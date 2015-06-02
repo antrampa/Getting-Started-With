@@ -114,6 +114,8 @@ Connect the components and wires as shown in this <a href="https://github.com/Ah
 <p>
 Upload this <a href="https://github.com/AhmedDjebali/Getting-Started-With/blob/master/Sensors/HC-SR04_with_LCD/HC-SR04_with_LCD.ino">code</a> to the Arduino
 </p>
+<hr/>
+Djebali Ahmed
 <blockquote>
   My goal is to help you uget started very easily by giving you : 
   <ul>
@@ -123,6 +125,5 @@ Upload this <a href="https://github.com/AhmedDjebali/Getting-Started-With/blob/m
     <li>Simple schematics</li>
     <li>Commented sketches</li>
   </ul>
-  Djebali Ahmed
 </blockquote>
 </p>
