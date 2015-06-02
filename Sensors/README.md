@@ -51,7 +51,7 @@ This simple project will use the HC-SR04 sensor with an Arduino and a arocessing
   <li>Jumper Wires</li>
 </ul>
 </p>
-<h4>Schematic</h4>
+<h4>3 - Schematic</h4>
 <p>
 Connect the components and wires as shown in this <a href="https://github.com/AhmedDjebali/Getting-Started-With/blob/master/Sensors/HC-SR04_Test/Schematic.jpg">schematic</a> or following the instructions below : <br/>
 <ul>
@@ -61,7 +61,7 @@ Connect the components and wires as shown in this <a href="https://github.com/Ah
   <li>Trig to Arduino pin 13</li>
 </ul>
 </p>
-<h4>Code</h4>
+<h4>4 - Code</h4>
 <p>
 Upload this <a href="https://github.com/AhmedDjebali/Getting-Started-With/blob/master/Sensors/HC-SR04_Test/HC-SR04_Test.ino">code</a> to the Arduino
 </p>
