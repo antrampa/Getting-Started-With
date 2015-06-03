@@ -114,6 +114,6 @@ Connect the components and wires as shown in this <a href="https://github.com/Ah
 <p>
 Upload this <a href="https://github.com/AhmedDjebali/Getting-Started-With/blob/master/Sensors/HC-SR04_with_LCD/HC-SR04_with_LCD.ino">code</a> to the Arduino
 </p>
+<br/>
 <hr/>
-My goal is to help you getting started very easily by giving you components overviews, important features, DIY (do it yourself) projects, schematics and commented sketches.<br/><br/>
-Djebali Ahmed
+Our goal is to help you getting started very easily by giving you components overviews, important features, DIY (do it yourself) projects, schematics and commented sketches.<br/><br/>
