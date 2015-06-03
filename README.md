@@ -21,3 +21,5 @@ Throughout this projects you will find some Amazon links and some of them are af
  <li><a href="https://github.com/AhmedDjebali/Getting-Started-With/tree/master/Wifi">Wifi modules</a></li>
  <li><a href="">Bleutooth modules</a></li>
 <ol>
+<hr/>
+Our goal is to help you getting started very easily by giving you components overviews, important features, DIY (do it yourself) projects, schematics and commented sketches.<br/><br/>
