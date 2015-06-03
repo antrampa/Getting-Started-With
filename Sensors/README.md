@@ -26,7 +26,7 @@ The ultrasonic ranging module HC-SR04 uses sonar to determine distance to an obj
   <li>GND: 0V Ground </li>
  </ul>
 </p>
-<p>and more <a href="http://www.micropik.com/PDF/HCSR04.pdf" target="_blank">here</a></p>
+<p>For more details here the<a href="http://www.micropik.com/PDF/HCSR04.pdf" target="_blank">datashete</a></p>
 <h3>Projects Summary</h3>
 <p>
   The HC-SR04 ultrasonic ranging sensor is very popular. So these are some projects using this sensor:<br/> 
@@ -114,6 +114,5 @@ Connect the components and wires as shown in this <a href="https://github.com/Ah
 <p>
 Upload this <a href="https://github.com/AhmedDjebali/Getting-Started-With/blob/master/Sensors/HC-SR04_with_LCD/HC-SR04_with_LCD.ino">code</a> to the Arduino
 </p>
-<br/>
 <hr/>
 Our goal is to help you getting started very easily by giving you components overviews, important features, DIY (do it yourself) projects, schematics and commented sketches.<br/><br/>
