@@ -1,5 +1,5 @@
 <h1>HC-SR04 Ultrasonic Ranging Sensor</h1>
-<h3>About the product</h3>
+<h3>About the sensor</h3>
 <p>
 The ultrasonic ranging module HC-SR04 uses sonar to determine distance to an object. It provides from 2cm to 400cm non-contact measurement function with high accuracy and stable readings in an easy-to-use package, the ranging accuracy can reach to 3mm. The module includes ultrasonic transmitter, receiver and control circuit. The basic principle of work.
 </p>
@@ -26,7 +26,7 @@ The ultrasonic ranging module HC-SR04 uses sonar to determine distance to an obj
   <li>GND: 0V Ground </li>
  </ul>
 </p>
-<p>For more details here the<a href="http://www.micropik.com/PDF/HCSR04.pdf" target="_blank">datashete</a></p>
+<p>For more details here is the <a href="http://www.micropik.com/PDF/HCSR04.pdf" target="_blank">datashete</a></p>
 <h3>Projects Summary</h3>
 <p>
   The HC-SR04 ultrasonic ranging sensor is very popular. So these are some projects using this sensor:<br/> 
