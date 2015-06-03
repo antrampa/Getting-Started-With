@@ -11,6 +11,7 @@ Our mission is to help you getting started very easily by giving you components 
 Throughout this projects you will find some Amazon links and some of them are affiliate links. This means our team earns a small commission from each purchase with that link.That has no additional cost to you, but helps paying for the expenses of purchasing new components for the projects presented.
 </p>
 <h3>So let's get started with</h3>
+<p>
 <ol>
  <li><a href="">Electronics Basics</a></li>
  <li><a href="https://github.com/AhmedDjebali/Getting-Started-With/tree/master/Arduino">Arduino</a></li>
@@ -21,6 +22,7 @@ Throughout this projects you will find some Amazon links and some of them are af
  <li><a href="https://github.com/AhmedDjebali/Getting-Started-With/tree/master/Wifi">Wifi modules</a></li>
  <li><a href="">Bleutooth modules</a></li>
 <ol>
+</p>
 <br/>
 <hr/>
 Our goal is to help you getting started very easily by giving you components overviews, important features, DIY (do it yourself) projects, schematics and commented sketches.<br/><br/>
